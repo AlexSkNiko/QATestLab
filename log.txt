@@ -1,0 +1,1038 @@
+Start the program!
+-------------------
+Humans force is created.
+-------------------
+Mag life: 100.0
+Archer1 life: 100.0
+Archer2 life: 100.0
+Archer3 life: 100.0
+Fighter1 life: 100.0
+Fighter2 life: 100.0
+Fighter3 life: 100.0
+Fighter4 life: 100.0
+-------------------
+Orks force is created.
+-------------------
+Mag life: 100.0
+Archer1 life: 100.0
+Archer2 life: 100.0
+Archer3 life: 100.0
+Fighter1 life: 100.0
+Fighter2 life: 100.0
+Fighter3 life: 100.0
+Fighter4 life: 100.0
+-------------------
+The battle is beginning!
+-------------------
+Humans force is moving!
+-------------------
+Vip list:
+MAG
+FIGHTER2
+FIGHTER4
+-------------------
+General list:
+ARCHER1
+ARCHER2
+ARCHER3
+FIGHTER1
+FIGHTER3
+-------------------
+FIGHTER4
+The attack on the MAG
+Humans fighter is fighting (-27.0)
+-------------------
+MAG
+The attack on the ARCHER2
+Humans mag is degrading opposite soldier (-6.0)
+-------------------
+FIGHTER2
+The attack on the MAG
+Humans fighter is fighting (-27.0)
+-------------------
+FIGHTER1
+The attack on the FIGHTER3
+Humans fighter is fighting (-18.0)
+-------------------
+ARCHER2
+The attack on the ARCHER3
+Humans archer is shooting (-5.0)
+-------------------
+ARCHER1
+The attack on the MAG
+Humans archer is shooting (-5.0)
+-------------------
+ARCHER3
+The attack on the FIGHTER1
+Humans archer is shooting (-5.0)
+-------------------
+FIGHTER3
+The attack on the FIGHTER3
+Humans fighter is fighting (-18.0)
+-------------------
+Orks life:
+MAG: 41.0
+ARCHER1: 100.0
+ARCHER2: 94.0
+ARCHER3: 95.0
+FIGHTER1: 95.0
+FIGHTER2: 100.0
+FIGHTER3: 64.0
+FIGHTER4: 100.0
+-------------------
+Orks force is moving!
+-------------------
+Vip list:
+MAG
+-------------------
+General list:
+ARCHER1
+ARCHER2
+ARCHER3
+FIGHTER1
+FIGHTER2
+FIGHTER3
+FIGHTER4
+-------------------
+MAG
+The attack on the ARCHER2
+Orks mag is degrading opposite soldier 
+-------------------
+ARCHER2
+The attack on the ARCHER3
+Orks archer is shooting (-3.0)
+-------------------
+FIGHTER1
+The attack on the FIGHTER4
+Orks fighter is fighting (-20.0)
+-------------------
+FIGHTER4
+The attack on the FIGHTER4
+Orks fighter is fighting (-20.0)
+-------------------
+FIGHTER3
+The attack on the FIGHTER2
+Orks fighter is fighting (-20.0)
+-------------------
+FIGHTER2
+The attack on the MAG
+Orks fighter is fighting (-20.0)
+-------------------
+ARCHER1
+The attack on the FIGHTER3
+Orks archer is shooting (-3.0)
+-------------------
+ARCHER3
+The attack on the ARCHER3
+Orks archer is attacking (-2.0)
+-------------------
+Humans life:
+MAG: 80.0
+ARCHER1: 100.0
+ARCHER2: 100.0
+ARCHER3: 95.0
+FIGHTER1: 100.0
+FIGHTER2: 80.0
+FIGHTER3: 97.0
+FIGHTER4: 60.0
+-------------------
+Humans force is moving!
+-------------------
+Vip list:
+-------------------
+General list:
+MAG
+ARCHER1
+ARCHER2
+ARCHER3
+FIGHTER1
+FIGHTER2
+FIGHTER3
+FIGHTER4
+-------------------
+ARCHER1
+The attack on the FIGHTER3
+Humans archer is attacking (-3.0)
+-------------------
+FIGHTER2
+The attack on the FIGHTER4
+Humans fighter is fighting (-18.0)
+-------------------
+FIGHTER3
+The attack on the FIGHTER3
+Humans fighter is fighting (-18.0)
+-------------------
+FIGHTER4
+The attack on the FIGHTER2
+Humans fighter is fighting (-18.0)
+-------------------
+FIGHTER1
+The attack on the ARCHER2
+Humans fighter is fighting (-18.0)
+-------------------
+ARCHER3
+The attack on the MAG
+Humans archer is attacking (-3.0)
+-------------------
+MAG
+The attack on the FIGHTER2
+Humans mag is upgrading their soldier
+-------------------
+ARCHER2
+The attack on the FIGHTER2
+Humans archer is shooting (-5.0)
+-------------------
+Orks life:
+MAG: 38.0
+ARCHER1: 100.0
+ARCHER2: 76.0
+ARCHER3: 95.0
+FIGHTER1: 95.0
+FIGHTER2: 77.0
+FIGHTER3: 43.0
+FIGHTER4: 82.0
+-------------------
+Humans force is moving!
+-------------------
+Vip list:
+FIGHTER2
+-------------------
+General list:
+MAG
+ARCHER1
+ARCHER2
+ARCHER3
+FIGHTER1
+FIGHTER3
+FIGHTER4
+-------------------
+FIGHTER2
+The attack on the FIGHTER3
+Humans fighter is fighting (-27.0)
+-------------------
+ARCHER1
+The attack on the MAG
+Humans archer is shooting (-5.0)
+-------------------
+ARCHER3
+The attack on the MAG
+Humans archer is attacking (-3.0)
+-------------------
+ARCHER2
+The attack on the FIGHTER1
+Humans archer is attacking (-3.0)
+-------------------
+FIGHTER1
+The attack on the FIGHTER3
+Humans fighter is fighting (-18.0)
+-------------------
+MAG
+The attack on the MAG
+Humans mag is upgrading their soldier
+-------------------
+FIGHTER3
+The attack on the ARCHER1
+Humans fighter is fighting (-18.0)
+-------------------
+FIGHTER4
+The attack on the ARCHER1
+Humans fighter is fighting (-18.0)
+-------------------
+Orks life:
+MAG: 30.0
+ARCHER1: 64.0
+ARCHER2: 76.0
+ARCHER3: 95.0
+FIGHTER1: 92.0
+FIGHTER2: 77.0
+FIGHTER3: fatality
+FIGHTER4: 82.0
+-------------------
+Orks force is moving!
+-------------------
+Vip list:
+-------------------
+General list:
+MAG
+ARCHER1
+ARCHER2
+ARCHER3
+FIGHTER1
+FIGHTER2
+FIGHTER4
+-------------------
+FIGHTER2
+The attack on the FIGHTER4
+Orks fighter is fighting (-20.0)
+-------------------
+ARCHER2
+The attack on the FIGHTER2
+Orks archer is shooting (-3.0)
+-------------------
+FIGHTER1
+The attack on the ARCHER3
+Orks fighter is fighting (-20.0)
+-------------------
+ARCHER1
+The attack on the FIGHTER1
+Orks archer is attacking (-2.0)
+-------------------
+ARCHER3
+The attack on the ARCHER3
+Orks archer is attacking (-2.0)
+-------------------
+FIGHTER4
+The attack on the MAG
+Orks fighter is fighting (-20.0)
+-------------------
+MAG
+The attack on the FIGHTER2
+Orks mag is upgrading their soldier
+-------------------
+Humans life:
+MAG: 60.0
+ARCHER1: 100.0
+ARCHER2: 100.0
+ARCHER3: 73.0
+FIGHTER1: 98.0
+FIGHTER2: 77.0
+FIGHTER3: 97.0
+FIGHTER4: 40.0
+-------------------
+Humans force is moving!
+-------------------
+Vip list:
+-------------------
+General list:
+MAG
+ARCHER1
+ARCHER2
+ARCHER3
+FIGHTER1
+FIGHTER2
+FIGHTER3
+FIGHTER4
+-------------------
+FIGHTER4
+The attack on the ARCHER1
+Humans fighter is fighting (-18.0)
+-------------------
+ARCHER1
+The attack on the FIGHTER4
+Humans archer is attacking (-3.0)
+-------------------
+ARCHER2
+The attack on the FIGHTER1
+Humans archer is attacking (-3.0)
+-------------------
+FIGHTER1
+The attack on the ARCHER3
+Humans fighter is fighting (-18.0)
+-------------------
+MAG
+The attack on the MAG
+Humans mag is upgrading their soldier
+-------------------
+ARCHER3
+The attack on the MAG
+Humans archer is shooting (-5.0)
+-------------------
+FIGHTER3
+The attack on the ARCHER3
+Humans fighter is fighting (-18.0)
+-------------------
+FIGHTER2
+The attack on the ARCHER2
+Humans fighter is fighting (-18.0)
+-------------------
+Orks life:
+MAG: 25.0
+ARCHER1: 46.0
+ARCHER2: 58.0
+ARCHER3: 59.0
+FIGHTER1: 89.0
+FIGHTER2: 77.0
+FIGHTER3: fatality
+FIGHTER4: 79.0
+-------------------
+Orks force is moving!
+-------------------
+Vip list:
+FIGHTER2
+-------------------
+General list:
+MAG
+ARCHER1
+ARCHER2
+ARCHER3
+FIGHTER1
+FIGHTER4
+-------------------
+FIGHTER2
+The attack on the FIGHTER2
+Orks fighter is fighting (-30.0)
+-------------------
+ARCHER3
+The attack on the FIGHTER2
+Orks archer is shooting (-3.0)
+-------------------
+ARCHER2
+The attack on the FIGHTER3
+Orks archer is shooting (-3.0)
+-------------------
+FIGHTER1
+The attack on the FIGHTER1
+Orks fighter is fighting (-20.0)
+-------------------
+FIGHTER4
+The attack on the FIGHTER3
+Orks fighter is fighting (-20.0)
+-------------------
+MAG
+The attack on the MAG
+Orks mag is upgrading their soldier
+-------------------
+ARCHER1
+The attack on the MAG
+Orks archer is attacking (-2.0)
+-------------------
+Humans life:
+MAG: 58.0
+ARCHER1: 100.0
+ARCHER2: 100.0
+ARCHER3: 73.0
+FIGHTER1: 78.0
+FIGHTER2: 44.0
+FIGHTER3: 74.0
+FIGHTER4: 40.0
+-------------------
+Orks force is moving!
+-------------------
+Vip list:
+-------------------
+General list:
+MAG
+ARCHER1
+ARCHER2
+ARCHER3
+FIGHTER1
+FIGHTER2
+FIGHTER4
+-------------------
+FIGHTER2
+The attack on the FIGHTER2
+Orks fighter is fighting (-20.0)
+-------------------
+FIGHTER4
+The attack on the FIGHTER4
+Orks fighter is fighting (-20.0)
+-------------------
+ARCHER2
+The attack on the FIGHTER1
+Orks archer is shooting (-3.0)
+-------------------
+FIGHTER1
+The attack on the FIGHTER3
+Orks fighter is fighting (-20.0)
+-------------------
+MAG
+The attack on the ARCHER2
+Orks mag is degrading opposite soldier 
+-------------------
+ARCHER1
+The attack on the MAG
+Orks archer is attacking (-2.0)
+-------------------
+ARCHER3
+The attack on the FIGHTER4
+Orks archer is shooting (-3.0)
+-------------------
+Humans life:
+MAG: 56.0
+ARCHER1: 100.0
+ARCHER2: 100.0
+ARCHER3: 73.0
+FIGHTER1: 75.0
+FIGHTER2: 24.0
+FIGHTER3: 54.0
+FIGHTER4: 17.0
+-------------------
+Orks force is moving!
+-------------------
+Vip list:
+-------------------
+General list:
+MAG
+ARCHER1
+ARCHER2
+ARCHER3
+FIGHTER1
+FIGHTER2
+FIGHTER4
+-------------------
+FIGHTER2
+The attack on the FIGHTER1
+Orks fighter is fighting (-20.0)
+-------------------
+FIGHTER4
+The attack on the FIGHTER1
+Orks fighter is fighting (-20.0)
+-------------------
+ARCHER3
+The attack on the FIGHTER4
+Orks archer is shooting (-3.0)
+-------------------
+MAG
+The attack on the ARCHER1
+Orks mag is upgrading their soldier
+-------------------
+FIGHTER1
+The attack on the ARCHER2
+Orks fighter is fighting (-20.0)
+-------------------
+ARCHER1
+The attack on the ARCHER3
+Orks archer is shooting (-4.5)
+-------------------
+ARCHER2
+The attack on the FIGHTER2
+Orks archer is shooting (-3.0)
+-------------------
+Humans life:
+MAG: 56.0
+ARCHER1: 100.0
+ARCHER2: 80.0
+ARCHER3: 68.5
+FIGHTER1: 35.0
+FIGHTER2: 21.0
+FIGHTER3: 54.0
+FIGHTER4: 14.0
+-------------------
+Orks force is moving!
+-------------------
+Vip list:
+-------------------
+General list:
+MAG
+ARCHER1
+ARCHER2
+ARCHER3
+FIGHTER1
+FIGHTER2
+FIGHTER4
+-------------------
+FIGHTER1
+The attack on the FIGHTER1
+Orks fighter is fighting (-20.0)
+-------------------
+ARCHER1
+The attack on the ARCHER2
+Orks archer is shooting (-3.0)
+-------------------
+ARCHER3
+The attack on the FIGHTER3
+Orks archer is attacking (-2.0)
+-------------------
+FIGHTER2
+The attack on the ARCHER1
+Orks fighter is fighting (-20.0)
+-------------------
+ARCHER2
+The attack on the MAG
+Orks archer is attacking (-2.0)
+-------------------
+FIGHTER4
+The attack on the FIGHTER1
+Orks fighter is fighting (-20.0)
+-------------------
+MAG
+The attack on the FIGHTER4
+Orks mag is degrading opposite soldier 
+-------------------
+Humans life:
+MAG: 54.0
+ARCHER1: 80.0
+ARCHER2: 77.0
+ARCHER3: 68.5
+FIGHTER1: fatality
+FIGHTER2: 21.0
+FIGHTER3: 52.0
+FIGHTER4: 14.0
+-------------------
+Humans force is moving!
+-------------------
+Vip list:
+-------------------
+General list:
+MAG
+ARCHER1
+ARCHER2
+ARCHER3
+FIGHTER2
+FIGHTER3
+FIGHTER4
+-------------------
+FIGHTER3
+The attack on the FIGHTER1
+Humans fighter is fighting (-18.0)
+-------------------
+MAG
+The attack on the MAG
+Humans mag is degrading opposite soldier (-6.0)
+-------------------
+ARCHER1
+The attack on the ARCHER3
+Humans archer is attacking (-3.0)
+-------------------
+ARCHER2
+The attack on the ARCHER3
+Humans archer is attacking (-3.0)
+-------------------
+FIGHTER4
+The attack on the MAG
+Humans fighter is fighting (-18.0)
+-------------------
+FIGHTER2
+The attack on the ARCHER3
+Humans fighter is fighting (-18.0)
+-------------------
+ARCHER3
+The attack on the ARCHER1
+Humans archer is shooting (-5.0)
+-------------------
+Orks life:
+MAG: 1.0
+ARCHER1: 41.0
+ARCHER2: 58.0
+ARCHER3: 35.0
+FIGHTER1: 71.0
+FIGHTER2: 77.0
+FIGHTER3: fatality
+FIGHTER4: 79.0
+-------------------
+Humans force is moving!
+-------------------
+Vip list:
+-------------------
+General list:
+MAG
+ARCHER1
+ARCHER2
+ARCHER3
+FIGHTER2
+FIGHTER3
+FIGHTER4
+-------------------
+FIGHTER4
+The attack on the ARCHER3
+Humans fighter is fighting (-18.0)
+-------------------
+FIGHTER3
+The attack on the ARCHER2
+Humans fighter is fighting (-18.0)
+-------------------
+ARCHER2
+The attack on the ARCHER3
+Humans archer is shooting (-5.0)
+-------------------
+ARCHER1
+The attack on the FIGHTER2
+Humans archer is attacking (-3.0)
+-------------------
+FIGHTER2
+The attack on the ARCHER2
+Humans fighter is fighting (-18.0)
+-------------------
+MAG
+The attack on the MAG
+Humans mag is degrading opposite soldier (-4.0)
+-------------------
+ARCHER3
+The attack on the ARCHER2
+Humans archer is attacking (-3.0)
+-------------------
+Orks life:
+MAG: fatality
+ARCHER1: 41.0
+ARCHER2: 19.0
+ARCHER3: 12.0
+FIGHTER1: 71.0
+FIGHTER2: 74.0
+FIGHTER3: fatality
+FIGHTER4: 79.0
+-------------------
+Humans force is moving!
+-------------------
+Vip list:
+-------------------
+General list:
+MAG
+ARCHER1
+ARCHER2
+ARCHER3
+FIGHTER2
+FIGHTER3
+FIGHTER4
+-------------------
+ARCHER2
+The attack on the FIGHTER2
+Humans archer is shooting (-5.0)
+-------------------
+ARCHER1
+The attack on the FIGHTER1
+Humans archer is attacking (-3.0)
+-------------------
+FIGHTER2
+The attack on the FIGHTER2
+Humans fighter is fighting (-18.0)
+-------------------
+FIGHTER3
+The attack on the FIGHTER1
+Humans fighter is fighting (-18.0)
+-------------------
+FIGHTER4
+The attack on the ARCHER1
+Humans fighter is fighting (-18.0)
+-------------------
+MAG
+The attack on the FIGHTER4
+Humans mag is upgrading their soldier
+-------------------
+ARCHER3
+The attack on the ARCHER2
+Humans archer is shooting (-5.0)
+-------------------
+Orks life:
+MAG: fatality
+ARCHER1: 23.0
+ARCHER2: 14.0
+ARCHER3: 12.0
+FIGHTER1: 50.0
+FIGHTER2: 51.0
+FIGHTER3: fatality
+FIGHTER4: 79.0
+-------------------
+Humans force is moving!
+-------------------
+Vip list:
+FIGHTER4
+-------------------
+General list:
+MAG
+ARCHER1
+ARCHER2
+ARCHER3
+FIGHTER2
+FIGHTER3
+-------------------
+FIGHTER4
+The attack on the FIGHTER1
+Humans fighter is fighting (-27.0)
+-------------------
+ARCHER2
+The attack on the ARCHER1
+Humans archer is attacking (-3.0)
+-------------------
+MAG
+The attack on the FIGHTER2
+Humans mag is upgrading their soldier
+-------------------
+FIGHTER3
+The attack on the ARCHER3
+Humans fighter is fighting (-18.0)
+-------------------
+ARCHER3
+The attack on the ARCHER3
+Humans archer is shooting (-5.0)
+-------------------
+FIGHTER2
+The attack on the ARCHER2
+Humans fighter is fighting (-27.0)
+-------------------
+ARCHER1
+The attack on the ARCHER2
+Humans archer is attacking (-3.0)
+-------------------
+Orks life:
+MAG: fatality
+ARCHER1: 20.0
+ARCHER2: fatality
+ARCHER3: fatality
+FIGHTER1: 23.0
+FIGHTER2: 51.0
+FIGHTER3: fatality
+FIGHTER4: 79.0
+-------------------
+Humans force is moving!
+-------------------
+Vip list:
+-------------------
+General list:
+MAG
+ARCHER1
+ARCHER2
+ARCHER3
+FIGHTER2
+FIGHTER3
+FIGHTER4
+-------------------
+MAG
+The attack on the FIGHTER4
+Humans mag is degrading opposite soldier (-4.0)
+-------------------
+FIGHTER4
+The attack on the FIGHTER2
+Humans fighter is fighting (-18.0)
+-------------------
+ARCHER1
+The attack on the FIGHTER2
+Humans archer is attacking (-3.0)
+-------------------
+FIGHTER2
+The attack on the FIGHTER4
+Humans fighter is fighting (-18.0)
+-------------------
+FIGHTER3
+The attack on the FIGHTER2
+Humans fighter is fighting (-18.0)
+-------------------
+ARCHER2
+The attack on the FIGHTER1
+Humans archer is attacking (-3.0)
+-------------------
+ARCHER3
+The attack on the FIGHTER4
+Humans archer is attacking (-3.0)
+-------------------
+Orks life:
+MAG: fatality
+ARCHER1: 20.0
+ARCHER2: fatality
+ARCHER3: fatality
+FIGHTER1: 20.0
+FIGHTER2: 12.0
+FIGHTER3: fatality
+FIGHTER4: 54.0
+-------------------
+Humans force is moving!
+-------------------
+Vip list:
+-------------------
+General list:
+MAG
+ARCHER1
+ARCHER2
+ARCHER3
+FIGHTER2
+FIGHTER3
+FIGHTER4
+-------------------
+FIGHTER2
+The attack on the FIGHTER1
+Humans fighter is fighting (-18.0)
+-------------------
+ARCHER1
+The attack on the FIGHTER2
+Humans archer is shooting (-5.0)
+-------------------
+ARCHER2
+The attack on the FIGHTER2
+Humans archer is shooting (-5.0)
+-------------------
+ARCHER3
+The attack on the FIGHTER4
+Humans archer is attacking (-3.0)
+-------------------
+FIGHTER4
+The attack on the FIGHTER1
+Humans fighter is fighting (-18.0)
+-------------------
+MAG
+The attack on the FIGHTER1
+Humans mag is degrading opposite soldier (-4.0)
+-------------------
+FIGHTER3
+The attack on the FIGHTER2
+Humans fighter is fighting (-18.0)
+-------------------
+Orks life:
+MAG: fatality
+ARCHER1: 20.0
+ARCHER2: fatality
+ARCHER3: fatality
+FIGHTER1: fatality
+FIGHTER2: fatality
+FIGHTER3: fatality
+FIGHTER4: 51.0
+-------------------
+Orks force is moving!
+-------------------
+Vip list:
+-------------------
+General list:
+ARCHER1
+FIGHTER4
+-------------------
+ARCHER1
+The attack on the FIGHTER2
+Orks archer is shooting (-3.0)
+-------------------
+FIGHTER4
+The attack on the FIGHTER3
+Orks fighter is fighting (-20.0)
+-------------------
+Humans life:
+MAG: 54.0
+ARCHER1: 80.0
+ARCHER2: 77.0
+ARCHER3: 68.5
+FIGHTER1: fatality
+FIGHTER2: 18.0
+FIGHTER3: 32.0
+FIGHTER4: 14.0
+-------------------
+Humans force is moving!
+-------------------
+Vip list:
+-------------------
+General list:
+MAG
+ARCHER1
+ARCHER2
+ARCHER3
+FIGHTER2
+FIGHTER3
+FIGHTER4
+-------------------
+ARCHER3
+The attack on the FIGHTER4
+Humans archer is shooting (-5.0)
+-------------------
+FIGHTER3
+The attack on the FIGHTER4
+Humans fighter is fighting (-18.0)
+-------------------
+FIGHTER4
+The attack on the ARCHER1
+Humans fighter is fighting (-18.0)
+-------------------
+ARCHER1
+The attack on the FIGHTER4
+Humans archer is shooting (-5.0)
+-------------------
+ARCHER2
+The attack on the FIGHTER4
+Humans archer is shooting (-5.0)
+-------------------
+MAG
+The attack on the ARCHER2
+Humans mag is upgrading their soldier
+-------------------
+FIGHTER2
+The attack on the FIGHTER4
+Humans fighter is fighting (-18.0)
+-------------------
+Orks life:
+MAG: fatality
+ARCHER1: 2.0
+ARCHER2: fatality
+ARCHER3: fatality
+FIGHTER1: fatality
+FIGHTER2: fatality
+FIGHTER3: fatality
+FIGHTER4: fatality
+-------------------
+Orks force is moving!
+-------------------
+Vip list:
+-------------------
+General list:
+ARCHER1
+-------------------
+ARCHER1
+The attack on the FIGHTER3
+Orks archer is attacking (-2.0)
+-------------------
+Humans life:
+MAG: 54.0
+ARCHER1: 80.0
+ARCHER2: 77.0
+ARCHER3: 68.5
+FIGHTER1: fatality
+FIGHTER2: 18.0
+FIGHTER3: 30.0
+FIGHTER4: 14.0
+-------------------
+Orks force is moving!
+-------------------
+Vip list:
+-------------------
+General list:
+ARCHER1
+-------------------
+ARCHER1
+The attack on the FIGHTER2
+Orks archer is shooting (-3.0)
+-------------------
+Humans life:
+MAG: 54.0
+ARCHER1: 80.0
+ARCHER2: 77.0
+ARCHER3: 68.5
+FIGHTER1: fatality
+FIGHTER2: 15.0
+FIGHTER3: 30.0
+FIGHTER4: 14.0
+-------------------
+Humans force is moving!
+-------------------
+Vip list:
+ARCHER2
+-------------------
+General list:
+MAG
+ARCHER1
+ARCHER3
+FIGHTER2
+FIGHTER3
+FIGHTER4
+-------------------
+ARCHER2
+The attack on the ARCHER1
+Humans archer is shooting (-7.5)
+-------------------
+MAG
+The attack on the FIGHTER2
+Humans mag is upgrading their soldier
+-------------------
+FIGHTER2
+The attack on the ARCHER1
+Humans fighter is fighting (-27.0)
+-------------------
+FIGHTER4
+The attack on the ARCHER1
+Humans fighter is fighting (-18.0)
+-------------------
+ARCHER1
+The attack on the ARCHER1
+Humans archer is shooting (-5.0)
+-------------------
+ARCHER3
+The attack on the ARCHER1
+Humans archer is shooting (-5.0)
+-------------------
+FIGHTER3
+The attack on the ARCHER1
+Humans fighter is fighting (-18.0)
+-------------------
+Orks life:
+MAG: fatality
+ARCHER1: fatality
+ARCHER2: fatality
+ARCHER3: fatality
+FIGHTER1: fatality
+FIGHTER2: fatality
+FIGHTER3: fatality
+FIGHTER4: fatality
+-------------------
+Humans is win!
